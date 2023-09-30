@@ -50,8 +50,4 @@ To run the E-Assets project locally, follow these steps:
 
 Contributions to the E-Assets project are welcome. If you have any suggestions, bug reports, or feature requests, please submit them through the issue tracker on the GitHub repository.
 
-### License
 
-This project is licensed under the [MIT License](LICENSE).
-
-Feel free to modify and customize this README as per your requirements. If you need any further assistance or have additional details to include, please let me know.
